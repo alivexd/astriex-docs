@@ -1,1 +1,2 @@
-# apex-docs
+# Apex-Docs
+Documentation of Apex Discord Bot
