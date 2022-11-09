@@ -1,2 +1,2 @@
-# Apex-Docs
-Documentation of Apex Discord Bot
+# Astriex-Docs
+Documentation of Astriex Discord Bot
